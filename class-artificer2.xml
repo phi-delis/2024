@@ -71,9 +71,11 @@
 				<tr><td>19th</td><td class="left">Ability Score Improvement</td><td>12</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
 				<tr><td>20th</td><td class="left">Soul of Artifice</td><td>12</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
 			</table>
-			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_INFUSE_ITEM" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_SPELLCASTING" />
+			<div element="ID_WOTC_2024_CLASS_FEATURE_WEAPON_MASTERY" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_MAGICAL_TINKERING" />
+			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_INFUSE_ITEM" />
+			<div element="ID_WOTC_2024_CLASS_FEATURE_ARTIFICER_FIGHTING_STYLE" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_ARTIFICER_SPECIALIST" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_THE_RIGHT_TOOL_FOR_THE_JOB" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_ABILITY_SCORE_IMPROVEMENT" />
