@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="class-artificer2.xml" url="https://github.com/phi-delis/2024/class-artificer2.xml" />
+			<file name="class-artificer2.xml" url="https://github.com/phi-delis/2024/main/class-artificer2.xml" />
 		</update>
 	</info>
 
@@ -50,7 +50,7 @@
 				<thead>
 					<tr><td class="col-5">Level</td><td class="col-30 left">Features</td><td class="col-10">Infusions Known</td><td class="col-10">Infused Items</td><td class="col-10">Spells Prepared</td><td>1st</td><td>2nd</td><td>3rd</td><td>4th</td><td>5th</td></tr>
 				</thead>
-				<tr><td> 1st</td><td class="left">Infuse Item, Spellcasting, Weapon Mastery</td><td> 4</td><td>2</td><td>2</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+				<tr><td> 1st</td><td class="left">Spellcasting, Weapon Mastery, Infuse Item</td><td> 4</td><td>2</td><td>2</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
 				<tr><td> 2nd</td><td class="left">Magical Tinkering, Fighting Style</td><td> 4</td><td>2</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
 				<tr><td> 3rd</td><td class="left">Artificer Specialist, The Right Tool for the Job</td><td> 4</td><td>2</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
 				<tr><td> 4th</td><td class="left">Ability Score Improvement</td><td> 4</td><td>2</td><td>5</td><td>4</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
@@ -73,8 +73,8 @@
 			</table>
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_SPELLCASTING" />
 			<div element="ID_WOTC_2024_CLASS_FEATURE_ARTIFICER_WEAPON_MASTERY" />
-			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_MAGICAL_TINKERING" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_INFUSE_ITEM" />
+			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_MAGICAL_TINKERING" />
 			<div element="ID_WOTC_2024_CLASS_FEATURE_ARTIFICER_FIGHTING_STYLE" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_ARTIFICER_SPECIALIST" />
 			<div element="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_THE_RIGHT_TOOL_FOR_THE_JOB" />
@@ -106,11 +106,11 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_INTELLIGENCE" requirements="!ID_WOTC_TCOE_MULTICLASS_ARTIFICER" />
 			<select type="Proficiency" name="Skill Proficiency, Artificer" supports="ID_PROFICIENCY_SKILL_ARCANA|ID_PROFICIENCY_SKILL_HISTORY|ID_PROFICIENCY_SKILL_INVESTIGATION|ID_PROFICIENCY_SKILL_MEDICINE|ID_PROFICIENCY_SKILL_NATURE|ID_PROFICIENCY_SKILL_PERCEPTION|ID_PROFICIENCY_SKILL_SLEIGHTOFHAND" number="2" requirements="!ID_WOTC_TCOE_MULTICLASS_ARTIFICER" />
 
-			<grant type="Class Feature" id="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_INFUSE_ITEM" level="1" />
 			<grant type="Class Feature" id="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_SPELLCASTING" level="1" />
 			<grant type="Class Feature" id="ID_WOTC_2024_CLASS_FEATURE_ARTIFICER_WEAPON_MASTERY" level="1" />
-			<grant type="Class Feature" id="ID_WOTC_2024_CLASS_FEATURE_ARTIFICER_FIGHTING_STYLE" level="2" />
+			<grant type="Class Feature" id="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_INFUSE_ITEM" level="1" />
 			<grant type="Class Feature" id="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_MAGICAL_TINKERING" level="2" />
+			<grant type="Class Feature" id="ID_WOTC_2024_CLASS_FEATURE_ARTIFICER_FIGHTING_STYLE" level="2" />
 			<grant type="Class Feature" id="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_ARTIFICER_SPECIALIST" level="3" />
 			<grant type="Class Feature" id="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_THE_RIGHT_TOOL_FOR_THE_JOB" level="3" />
 			<grant type="Class Feature" id="ID_WOTC_TCOE_CLASS_FEATURE_ARTIFICER_ABILITY_SCORE_IMPROVEMENT" level="4" />
@@ -199,7 +199,7 @@
 		<description>
 			<p><em>1st-level artificer feature</em></p>
 			<p>Your training with weapons and intuitive understanding of your own inventions allows you to use the mastery properties of weapons that you have infused.</p>
-			<p class="indent">Whenever you infuse a weapon that you are proficient with using your Infuse Items feature, you can use the mastery property of that weapon.</p>
+			<p class="indent">Whenever you infuse a weapon that you are proficient with using your Infuse Item feature, you can use the mastery property of that weapon.</p>
 		</description>
 		<sheet>
 			<description>Whenever you infuse a weapon that you are proficient with using your Infuse Items feature, you can use the mastery property of that weapon.</description>
