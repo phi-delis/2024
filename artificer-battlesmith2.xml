@@ -2,8 +2,8 @@
 <elements>
 	<info>
 		<name>Battle Smith Artificer Archetype</name>
-		<update version="0.0.1">
-			<file name="artificer-battlesmith2.xml" />
+		<update version="0.1.4">
+			<file name="artificer-battlesmith2.xml" url="https://github.com/phi-delis/2024/blob/main/artificer-battlesmith2.xml" />
 		</update>
 	</info>
 
