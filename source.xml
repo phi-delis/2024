@@ -5,7 +5,7 @@
 			<file name="source.xml" />
 		</update>
 	</info>	
-	<element name="2024" type="Source" source="User" id="ID_WOTC_SOURCE_TASHAS_CAULDRON_OF_EVERYTHING">
+	<element name="2024" type="Source" source="User" id="ID_WOTC_SOURCE_2024">
 		<description>			
 			<p><strong><em>Random updates, as needed.</em></strong></p>
 		</description>
