@@ -8,8 +8,8 @@
 	</info>
 	<files>		
 		<!-- Misc -->
-		<file name="source.xml" url="https://raw.githubusercontent.com/phi-delis/2024/blob/main/source.xml" />
-		<file name="class-artificer2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/blob/main/class-artificer2.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/phi-delis/2024/source.xml" />
+		<file name="class-artificer2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/class-artificer2.xml" />
 
 		<!-- Archetypes -->
 		<file name="artificer-battlesmith2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/artificer-battlesmith2.xml" />
