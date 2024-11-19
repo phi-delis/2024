@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>2024</name>
+		<update version="0.2.0">
+			<file name="2024.index" url="https://raw.githubusercontent.com/phi-delis/2024/2024.index" />
+		</update>
+	</info>
+	<files>		
+		<!-- Misc -->
+		<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/source.xml" />
+		<file name="class-artificer2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/class-artificer2.xml" />
+
+		<!-- Archetypes -->
+		<file name="artificer-battlesmith2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/artificer-battlesmith2.xml" />
+	</files>
+</index>
