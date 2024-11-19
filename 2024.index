@@ -2,14 +2,14 @@
 <index>
 	<info>
 		<name>2024</name>
-		<update version="0.2.0">
-			<file name="2024.index" url="https://raw.githubusercontent.com/phi-delis/2024/2024.index" />
+		<update version="0.1.4">
+			<file name="2024.index" url="https://raw.githubusercontent.com/phi-delis/2024/blob/main/2024.index" />
 		</update>
 	</info>
 	<files>		
 		<!-- Misc -->
-		<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/source.xml" />
-		<file name="class-artificer2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/class-artificer2.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/phi-delis/2024/blob/main/source.xml" />
+		<file name="class-artificer2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/blob/main/class-artificer2.xml" />
 
 		<!-- Archetypes -->
 		<file name="artificer-battlesmith2.xml" url="https://raw.githubusercontent.com/phi-delis/2024/artificer-battlesmith2.xml" />
